@@ -1,0 +1,34 @@
+#text{
+    width: 200px;
+    height: 60px;
+    background-color: rgb(173, 172, 172);
+    border-radius: 5px;
+    margin: 5px 5px;
+    position: absolute;
+    text-align:end;
+    padding-bottom: 5px;
+    
+}
+#calculator{
+    height: 270px;
+    width: 210px;
+    background-color: rgb(66, 65, 65);
+    border-radius: 10px;
+}
+button{
+    height: 40px;
+    width: 40px;
+    margin: 2.5px 2.5px;
+    font-size: large;
+}
+#btns{
+    margin: 5px 9px; 
+}
+p{
+    font-size: xx-large;
+    padding-right: 5px;
+      white-space: nowrap;     /* don't wrap */
+  overflow: hidden;        /* hide overflow */
+  text-overflow: ellipsis; /* show "..." at the end */
+
+}
